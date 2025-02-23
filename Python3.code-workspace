@@ -1,0 +1,17 @@
+{
+    "folders": [
+        {
+            "path": "."
+        },
+        {
+            "name": "github",
+            "path": "../../../../../Documents/github"
+        }
+    ],
+    "settings": {
+        "marscode.codeCompletionPro": {
+            "enableCodeCompletionPro": true
+        },
+        "marscode.enableInlineCommand": true
+    }
+}
